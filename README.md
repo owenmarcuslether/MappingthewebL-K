@@ -6,6 +6,7 @@ The Internet of Things (IoT) is a network of physical devices that are connected
 A common example is a smart doorbell: these devices connect to the Internet to permit people to greet others who come to their homes while they're away. As more devices become connected, IoT is expected to make automation, data analysis, and personalized experiences better. It also raises concerns about security, privacy, and data management.
 
 https://en.wikipedia.org/wiki/Internet_of_things
-https://en.wikipedia.org/wiki/Web_of_Things
-https://www.ibm.com/think/topics/internet-of-things
 
+https://en.wikipedia.org/wiki/Web_of_Things
+
+https://www.ibm.com/think/topics/internet-of-things
